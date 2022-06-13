@@ -186,8 +186,8 @@ export default function Home() {
                 </div>
 
                <div>
-                  { connectedWalletAddress && <p class="text-black font-bold justify-center mr-12">Connected wallet: </p> }
-                  { connectedWalletAddress && <text class="text-teil-500">{connectedWalletAddress}</text> }
+                  { connectedWalletAddress && <p className="text-black font-bold justify-center mr-12">Connected wallet: </p> }
+                  { connectedWalletAddress && <text className="text-teil-500">{connectedWalletAddress}</text> }
                 </div>
             </div>
           </>
