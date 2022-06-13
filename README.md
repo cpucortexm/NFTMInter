@@ -5,7 +5,7 @@
 - git clone or download the source code
 
   ```
-    $ git clone https://github.com/cpucortexm/NFTMint.git
+    $ git clone https://github.com/cpucortexm/nft-minter.git
   ```
 
 - Install the node modules using
