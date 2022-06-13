@@ -130,7 +130,7 @@ export default function Home() {
             </h1>
             <div className="space-y-8">
                 <div className="space-y-8">
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white ml-4 font-bold py-2 px-4 rounded-full" onClick={()=>{onMintPressed( {count})}}>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white ml-4 font-bold py-2 px-4 rounded-full" onClick={()=>{onMintPressed( {count})}}>
                       {buttonText}
                     </button>
                     <text >  Price: {nftPrice} Matic + Gas</text>
