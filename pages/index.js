@@ -196,7 +196,7 @@ export default function Home() {
 
       <footer className="mt-20 mr-10">
         <a
-          href="https://github.com/cpucortexm/NFTMinter/blob/main/README.md"
+          href="https://github.com/cpucortexm/nft-minter/blob/main/README.md"
           target="_blank"
           rel="noopener noreferrer"
           className="text-red-500 hover:text-red-700"
