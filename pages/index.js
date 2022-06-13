@@ -196,13 +196,23 @@ export default function Home() {
 
       <footer className="mt-20 mr-10">
         <a
-          href="https://github.com/cpucortexm/nft-minter/blob/main/README.md"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-red-500 hover:text-red-700"
+            href="https://mumbai.polygonscan.com/address/0xd939B84b6e9Bd6458AbDdf0d4c7Ac51c6Fc80093"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-green-700 hover:text-green-700"
         >
-          Read the docs
+              Contract Mumbai Polygon scan link
         </a>
+        <p>
+          <a
+            href="https://github.com/cpucortexm/nft-minter/blob/main/README.md"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-red-500 hover:text-red-700"
+          >
+          Read the docs
+          </a>
+        </p>
         <a> Author: Yogesh K (yogidk@gmail.com)</a>
       </footer>
     </div>
